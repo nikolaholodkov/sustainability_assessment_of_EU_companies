@@ -10,7 +10,7 @@ A sample file of the questionnaire can be viewed here: /pdf/sustainability_asses
 For the purpose of this study, a random sample of 300 companies was created. 
 The sample file can be viewed here: /xls/sustainability_assessment_of_EU_companies.xls. 
 
-For the purpose of this study, a Jupyter notebook script was created that imports the questionnaire sample file and turns it into a Pandas dataframe. Successively, the script cleans and prepares the dataframe for further analysis with the python Seaborn library and includes statistical comparisons using the Mann-Whitney-Wilcoxon test. 
+For the purpose of this study, a Jupyter notebook script was created that imports the questionnaire sample file and turns it into a Pandas dataframe. Successively, the script cleans and prepares the dataframe for further analysis with the Seaborn library and includes statistical comparisons using the Mann-Whitney-Wilcoxon test. 
 The script can be viewed here: /sustainability_assessment_of_EU_companies.ipynb
 
 The method shown here can be reproduced on any EUSurvey questionnaire. However, additional complexity in the structure of the questionnaire would require modifications to the python script. 
