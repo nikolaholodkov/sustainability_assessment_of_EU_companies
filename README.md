@@ -1,7 +1,7 @@
 # sustainability_assessment_of_EU_companies
 In this repository are found the guidelines, documents, and the python script to convert a simple EUSurvey questionnaire to a Pandas data frame and to perform statistical analysis using the Seaborn library.
 
-The scope of the questionnaire was to assess the sustainability of the European Union (EU) companies, with a focus on their environmental, social, and economic sustainability. In total, 9 inquiry questions were created using chatgpt3 each containing 3 possible answers indicating the level of sustainability from low to high.
+The scope of the questionnaire was to assess the sustainability of the European Union (EU) companies, with a focus on their environmental, social, and economic sustainability. In total, 9 inquiry questions were created each containing 3 possible answers indicating the level of sustainability from low to high.
 
 The questionnaire was hosted using the EUSurvey management tool. The EUSurvey is an online survey management system for creating and publishing forms available to the public. The EUSurvey is hosted at the European Commission's Department for digital services (DG DIGIT) and is available free of charge to all EU citizens. EUSurvey can be accessed at: (https://ec.europa.eu/eusurvey).
 
