@@ -5,5 +5,5 @@ The questionnaire was hosted using the EU Survey management tool (https://ec.eur
 
 The questionnaire can be accessed at this link: https://ec.europa.eu/eusurvey/runner/sustainability_test. For the purpose of this study, a sample of 300 random answers was created. The dataset is shown in: xls/sustainability_assessment_of_EU_companies.xls.
 
-A Python script was created that imports the questionnaire dataset, converts it into a Pandas data frame, and cleans and prepares the data frame for further analysis with the Seaborn library which includes statistical comparisons using the Mann-Whitney-Wilcoxon test. 
+A Python script was created that imports the questionnaire dataset, converts it into a Pandas data frame, and prepares the data frame for further analysis with the Seaborn library which includes statistical comparisons using the Mann-Whitney-Wilcoxon test. 
 
